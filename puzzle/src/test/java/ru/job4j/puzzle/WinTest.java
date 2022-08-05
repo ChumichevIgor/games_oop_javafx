@@ -27,6 +27,7 @@ public class WinTest {
                 {0, 0, 0, 0, 0},
                 {0, 0, 0, 0, 0},
         };
+
         assertThat(Win.check(board), is(true));
     }
 
