@@ -31,6 +31,7 @@ public class Win {
                 break;
             }
         }
+
         return result;
     }
 }
